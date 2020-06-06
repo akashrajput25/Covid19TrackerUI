@@ -152,10 +152,11 @@ class HomeScreen extends StatelessWidget {
                         .copyWith(color: Colors.white),
                   ),
                   TextSpan(
-                    text: "*For Jharkhand citizens",
+                    text: "*For Jharkhand citizens\n (UI Design By Akash)",
                     style: TextStyle(
-                      color: Colors.green.withOpacity(0.7),
+                      color: Colors.grey[800].withOpacity(1),
                     ),
+                    
                   ),
                 ],
               ),
