@@ -1,4 +1,4 @@
-# covid19
+# Covid_19_Tracker
 ( Flutter application )<br>
       Without APIs
 
